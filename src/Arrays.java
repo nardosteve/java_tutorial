@@ -8,9 +8,11 @@ public class Arrays {
         String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
 
         //Printing out values
+        //First index in the array
         System.out.println(values[0]);
 
         //Printing the array length
+        //Output: 5
         System.out.println(values.length);
 
         //Looping through the array
